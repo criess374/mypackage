@@ -1,6 +1,6 @@
-# My first package
+# Python advanced tutorial
 
-This is my first package.
+This is my package.
 
 # Installation
 ```bash
