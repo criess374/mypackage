@@ -18,4 +18,5 @@ dev = [
   "bumpver",
   "pytest",
   "pytest-cov",
+  "pytest",
 ]
